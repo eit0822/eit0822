@@ -1,0 +1,8 @@
+/* phone */
+@media(max-width: 500px){
+    .nav a{
+        display: block;
+        float: right;
+        font-size:15px;
+    }
+}
